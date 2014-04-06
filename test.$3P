@@ -32,7 +32,7 @@ fram
 	{	mov ( -200 150 0 ) rotz ( 0 ) roty ( 0 ) rotx ( 0 )
 		scal ( 1 1 1 ) obj P201 /* "P2\P201.suf" atr "noname" */
 	}
-	{	mov ( 1750 650 465 ) rotz ( 0 ) roty ( 0 ) rotx ( 0 )
+	{	mov ( -800 150 -350 ) rotz ( 0 ) roty ( 0 ) rotx ( 0 )
 		scal ( 1 1 1 ) obj F107 /* "F1\F107.suf" atr "noname" */
 	}
 }

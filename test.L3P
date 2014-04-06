@@ -2,6 +2,7 @@
                                   Version 2.04.080709(:
 Parts: 
 	F1\F107.suf
+	F1\F115.suf
 	P2\P201.suf
 	P2\P205.suf
 Light: (   50  -50  -71 ) ( 1.00 1.00 1.00)
@@ -34,5 +35,8 @@ fram
 	}
 	{	mov ( -800 150 -350 ) rotz ( 0 ) roty ( 0 ) rotx ( 0 )
 		scal ( 1 1 1 ) obj F107 /* "F1\F107.suf" atr "noname" */
+	}
+	{	mov ( -250 150 -200 ) rotz ( 0 ) roty ( 0 ) rotx ( 0 )
+		scal ( 1 1 1 ) obj F115 /* "F1\F115.suf" atr "noname" */
 	}
 }
